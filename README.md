@@ -1,3 +1,5 @@
+### ( Projeto desenvolvido no curso Ignite NodeJS da <a href="https://www.rocketseat.com.br/">Rocketseat</a> )
+
 # Desafio: Conceitos do Node.js
 
 Este projeto serve como um backend para funcionar como API público para demonstrar a utilização da API do Conceitos do Node.js. A ideia da aplicação é que os usuários possam adicionar tarefas a sua conta, podendo adicionar data, horário e até se foi concluida ou não,
